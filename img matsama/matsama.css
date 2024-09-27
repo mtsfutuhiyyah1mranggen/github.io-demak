@@ -30,9 +30,9 @@
   .next {
     cursor: pointer;
     position: absolute;
-    top: 40%;
+    top: 10%;
     width: auto;
-    padding: 16px;
+    padding: 15px;
     margin-top: 300px;
     color: white;
     font-weight: bold;
@@ -46,6 +46,7 @@
   .next {
     right: 0;
     border-radius: 3px 0 0 3px;
+    padding-right: 70px;
   }
   
   /* On hover, add a black background color with a little bit see-through */
@@ -94,4 +95,4 @@
     opacity: 1;
   }
   .caption-container {
-    padding-top: 15px;
+    padding-top: 15px;}
